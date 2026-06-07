@@ -10,7 +10,7 @@ function showSkills() {
 
 function showContact() {
     document.getElementById("contact").innerHTML =
-    "📧 Email: your@email.com";
+    "📧 Email: learningpython980@gmail.com";
 }
 
 function showGoal() {
